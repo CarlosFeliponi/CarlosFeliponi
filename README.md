@@ -20,6 +20,7 @@
   <a href="https://www.instagram.com/carlos_feliponi/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  
   ![Snake animation](https://github.com/CarlosFeliponi/CarlosFeliponi/blob/output/github-contribution-grid-snake.svg)
-
+  
+![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
  
 </div>
