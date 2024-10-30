@@ -5,6 +5,7 @@
 </div>-->
 
 <div style="display: inline_block"><br>
+<!--   GabrielBorges2000 -->
   <img align="center" alt="Carlos-REACT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Carlos-JAVASCRIPT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="Carlos-NODEJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
@@ -15,6 +16,7 @@
   <img align="center" alt="Carlos-GIT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="Carlos-BASH" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
   <img align="center" alt="Carlos-LINUX" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Icons8_flat_linux.svg">
+<!--   Azure -->
 <!--   <img align="center" alt="Carlos-AWS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws-original.svg"> -->
 <!--   <img align="center" alt="Carlos-tailwind" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwind/tailwind-original.svg"> -->
 <!--   <img align="center" alt="Carlos-BOOTSTRAP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"> -->
