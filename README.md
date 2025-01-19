@@ -7,9 +7,9 @@
 <div style="display: inline_block"><br>
 <!--   GabrielBorges2000 -->
   <img align="center" alt="Carlos-REACT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Carlos-JAVASCRIPT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-<!--   <img align="center" alt="Carlos-ANGULAR" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg"> -->
   <img align="center" alt="Carlos-TYPESCRIPT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+<!--   <img align="center" alt="Carlos-JAVASCRIPT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> -->
+<!--   <img align="center" alt="Carlos-ANGULAR" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg"> -->
   <img align="center" alt="Carlos-NODEJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
 <!--   <img align="center" alt="Carlos-SPRING" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg"> -->
 <!--   <img align="center" alt="Carlos-MYSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"> -->
