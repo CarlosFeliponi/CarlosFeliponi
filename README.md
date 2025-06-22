@@ -31,7 +31,10 @@
   
   ##
  
-<div> 
+<div align="left"> 
+  <p>
+  ✉️ You can find me on the following platforms: ⤵️
+  </p>
   <a href="https://www.linkedin.com/in/carlosfeliponi/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:carlosdmf.42@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
