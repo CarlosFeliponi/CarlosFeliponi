@@ -5,7 +5,8 @@
 </div>-->
 
 <div style="display: inline_block"><br>
-<!--   GabrielBorges2000 -->
+<!--   https://github.com/micaellimedeiros -->
+<!--   https://github.com/GabrielBorges2000 -->
   <img align="center" alt="Carlos-TYPESCRIPT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="Carlos-NODEJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Carlos-REACT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -31,7 +32,7 @@
   
   ##
  
-<div align="left"> 
+<div> 
   <p>
   ✉️ You can find me on the following platforms: ⤵️
   </p>
